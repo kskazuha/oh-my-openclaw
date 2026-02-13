@@ -5,8 +5,10 @@ _Learn about the person you're helping. Update this as you go._
 - **Name:** Mason
 - **What to call them:** Mason
 - **Pronouns:** _(optional)_
-- **Timezone:**
+- **Timezone:** Asia/Shanghai
 - **Notes:**
+  - Preferred response style: concise
+  - External actions: sending messages can be done directly; config changes require explicit approval
 
 ## Context
 
